@@ -2,12 +2,8 @@ from PIL import Image
 from flask import Flask, render_template, request
 import tensorflow as tf
 import numpy as np
-from imageio.v2 import imread
-from skimage.transform import resize
 from os.path import exists
 import gdown
-import sys
-import os
 
 if not exists("vgg16_cifar10_new.hdf5"):
     url = 'https://drive.google.com/file/d/1LJnhd4X4GIjoaBv40DtgxGryT33xQykT/view?usp=sharing'
