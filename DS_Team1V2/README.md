@@ -1,4 +1,4 @@
-# TrinivaAI_AiTriada_group#1
+# TrinovaAI_AiTriada_group#1
 ![command bot](https://img.shields.io/pypi/pyversions/pyth?color=orange&label=Command%20Bot&logo=R)
 ![lic](https://img.shields.io/pypi/l/clu?color=orange&label=Py6Core%20Group%E2%84%961%20License&logo=R)
 ![bot work](https://img.shields.io/github/commit-activity/m/Roman-Braneshty/Py6CoreProject-1?color=orange&label=Bot%20Work&logo=R)
